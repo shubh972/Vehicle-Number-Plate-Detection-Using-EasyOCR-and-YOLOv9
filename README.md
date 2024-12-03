@@ -1,4 +1,3 @@
-Here's a structured **README.md** template for your final year project:
 
 ---
 
